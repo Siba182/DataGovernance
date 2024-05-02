@@ -205,6 +205,7 @@ Deciding on a restaurant based on reviews is an example of data-driven decision-
 
 
 **Defining Big Data**
+
 One way to define and characterize big data is through these five Vs:
 
 **Volume:** The sheer scale of data being produced is unprecedented and requires new tools, skills, and processes.
