@@ -165,11 +165,13 @@
 
 
 **The Role of Data in the 21st Century**
-In these early decades of the 21st century, we are producing more data than we can handle, and the depth, breadth, and quality of the data that is being used are reshaping not just the tools and capabilities of our industries and cities, but the nature of how we learn, socialize, and entertain ourselves. It’s also elevating risks that we may previously have characterized as annoyances to a world today where a cyberattack can result in millions of dollars of losses in hours.
+
+In these early decades of the 21st century, we are producing more data than we can handle, and the depth, breadth, and quality of the data that is being used are reshaping not just the tools and capabilities of our industries and cities, but the nature of how we learn, socialize, and entertain ourselves. 
 
 
 
 **Data-Driven Decision-Making**
+
 Deciding on a restaurant based on reviews is an example of data-driven decision-making, but it’s also on the less complex end of the decision-making spectrum.
 
 
