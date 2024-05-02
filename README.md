@@ -115,3 +115,15 @@
 
 
 
+# Chapter 2
+
+**Defining Data**
+- Data can and is different from every one's perspective
+
+**Categories**
+
+- **Structured:** Data that has been formatted to a set structure; each data unit fits nicely into a table in a database. It’s ready for analysis. Examples include first name, last name, and phone number.
+
+- **Unstructured:** Data that are stored in a native format must be processed to be used. Further work is required to enable analysis. Examples include email content and social media posts.
+
+- **Semi-structured:** Data that contains additional information to enable the native format to be searched and analyzed
