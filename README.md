@@ -224,13 +224,29 @@ One way to define and characterize big data is through these five Vs:
 
 # Chapter 3
 
+**Identifying the Roles of Data**
+
+
+**Operations**
+- Business operations concern themselves with a diverse set of activities to run the day-to-day needs and drive the mission of an organization.
+- Each business has different needs, and operational functions reflect these specific requirements
 
 
 
+**Strategy**
+- this is about creating a plan that supports objectives and goals
+- understanding the challenges to delivering on the organization’s purpose and the proposed solutions to those challenges
 
 
 
+**Decision-Making**
+- the highest form of value derived from data is the ability to make better-informed decisions.
+- access to abundant data and information has resulted in quicker, timeous, and better-quality business decisions
 
+
+**Measuring**
+- Organizations are in a continuous state of measurement, whether it’s overt or tacit
+- Every observed unit of data contributes to building a picture of the business.
 
 
 
