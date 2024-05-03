@@ -222,6 +222,10 @@ One way to define and characterize big data is through these five Vs:
 
 
 
+# Chapter 3
+
+
+
 
 
 
