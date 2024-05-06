@@ -249,5 +249,10 @@ One way to define and characterize big data is through these five Vs:
 - Every observed unit of data contributes to building a picture of the business.
 
 
+**Monitoring**
+- This is an ongoing process of collecting and evaluating the performance of, say, a project, process, system, or another item of interest.
+- You engage in some manner of monitoring in order to inform whether, in fact, this expectation is being met
 
+
+**Insight Management**
 
