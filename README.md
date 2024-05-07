@@ -255,4 +255,60 @@ One way to define and characterize big data is through these five Vs:
 
 
 **Insight Management**
+- Insight management begins with gathering and analyzing data from different sources.
+- They must be knowledgeable about what data has value
+
+
+**Reporting**
+-
+
+
+
+**Data Analyst**
+
+**Basic steps in data analyst**
+- **Data Mining** - identifying and extracting relevant data from data sources
+- **Data Cleansing** - sizable effort including removing errors and duplicate data in preparation for analysis
+- **Statical analysis** - using statical methods and AI to inetrprt results and devol insights
+- **Data presentation**- communicating results using a variety of techniques insluding visualization and data storytelling
+
+
+**Four Primary types**
+- **Descriptive:**  Existing data sets of historical data are accessed, and analysis is performed to determine what the data tells stakeholders about the performance of a key performance indicator (KPI) or other business objectives. It is insight on past performance.
+
+- **Diagnostic:**  As the term suggests, this analysis tries to glean from the data the answer to why something happened. It takes descriptive analysis and looks at the cause.
+
+- **Predictive:**  In this approach, the analyst uses techniques to determine what may occur in the future. It applies tools and techniques to historical data and trends to predict the likelihood of certain outcomes.
+
+- **Prescriptive:**  This analysis focuses on what action should be taken. In combination with predictive analytics, prescriptive techniques provide estimates of the probabilities of a variety of future outcomes.
+
+
+**Data management**
+- is the implementation of data governance. Without data management, data governance is just wishful thinking
+
+
+**Governing data**
+- means that some level of control exists to support a related policy
+
+
+
+- **People** -  In governing data, people are the subject matter experts, they are responsible for quality, and they oversee and manage all related processes and responsibilities.
+
+- **Policies:**  A data policy contains a set of adopted rules by an organization that apply to the handling of data in specific conditions and for particular desired outcomes.
+
+
+- **Metrics:**  It’s largely true, what gets measured gets managed.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
