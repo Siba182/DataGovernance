@@ -301,6 +301,88 @@ One way to define and characterize big data is through these five Vs:
 
 
 
+# Chapter 4
+
+**Examining the Broader value of Data**
+
+- Data democratization - is the ability of team members to access data they need for their work, without relying on specialists.
+- A data silo is data repository controlled by an entity in an organization but not known/shared by other parts of the business.
+- data silos reduce collaboration and increase data inconsistencies, also they source of risk including security and regulatory issues.
+- data governance helps eliminate data unnecessary data siloes.
+
+
+**Data catalogs**
+
+**how members can find data**
+
+- method of data discoverability is the creation of an enterprrise data catalog.
+
+e.g store catalog of product details
+
+**3 benefits of data catalogs:**
+
+- Finding data : helps users identify and locate data that is useful.
+- Understanding data : answers data questions the purpose and data user
+- Making data more useful : creats visibility, describe value and provides access to information.
+
+data catalog cointains data about the data called metadata
+
+**3 types of metadata in a data catalog:**
+
+- Technical metadata : Data about the design of a data set. e.g tables,files names
+- Business metadata : organizational data such as business description, assessment of data quality
+- Operational metadata : Data such as when the data was last accessed, who accessed it and when was it last backed up.
+
+  
+Metadata examples : filenames, file locations, data owners & stewards, data descriptions, dates created & last modified, list of database tabkes and views.
+
+**with data catalog, an organization can :**
+
+- reduce data duplication
+- increase operational effeciencies and innovation
+- understand data quality
+- manage compliance
+
+  
+**From Data to Insight**
+
+- actionable data is the most valuable data to an organization.
+
+  
+**Data analytics**
+- Data analysis is identifying data set. examining it and reporting on findings. its a subset of data analytics
+- Data analytics is science that involves collectiong, cleaning, organization, storing and analyzing data
+- The source of data for analytics is one or combination of :
+ - First-party data : data that an organization collects.
+  - Second-party : obtained from another organization
+  - Thrird-party : aggregated data obtained from a provider
+
+**Data Monetization**
+- data valuation - without a process to place a price on a data set.
+- data monetization - is when data provides an economic benefit to an organization
+- data valuation is a requirement for data monetization such as selling or licensing data.
+- ways to determine data valuation:
+  - Cost value method : value is calculated by determining how much it costs to produce,store and replace lost data.
+  - Market value approach : value is calculated by researching how comparable data is being priced in open market.
+  - Economic value approach : calculated by measuring the impact a data set has on the business bottom line.
+  - With-and-without method : claculated by quantifying the impact on cash flow if a data set needs to be replaced.
+ 
+**Data-Driven Descision Making**
+- is process of using data to drive business decisions.
+- DDDM needs data culture
+- Ensuring the right people can use the right data at the right time requires data security and data use policies
+- Six-step process to DDDM:
+  1. Define the Objectives : relative with orgganizational goals. help scope the work and define metrics.
+  2. Identify the data : in addition to using data catalogue, enterprise search this requires engaging with impacted stakeholders. also consult data stewards, data owners
+  3. Prepare the data : use deep data science skills to prepare the data for use
+  4. Analyze the data : complex analysis and continuous efforts used, include support for ETL architecture. To analyze this data need visualizations.
+  5. Determine the findings : once data is displayed in variety of ways, you can ask questions about it.
+  6. Take action : Make your decisions.
+ 
+**Developing a Data Strategy for Improved Results**
+- *Why does every organization need a data strategy?*
+  - The purpose of any type of strategy is to agree on a set of guiding principles that inform decision-making in support of a desired outcome.
+  -  In simple terms, it’s the roadmap on how to reach your goals.
 
 
 
